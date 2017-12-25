@@ -1,0 +1,24 @@
+{
+  "name": "new_test_node",
+  "version": "1.0.0",
+  "description": "test with node",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "new_test_node"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "Seymi",
+  "license": "ISC"
+}
